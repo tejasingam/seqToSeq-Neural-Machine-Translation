@@ -20,18 +20,18 @@ This repository contains sample code for implementing and training a deep learni
 
 **Usage**
 
-	**1.Installation:**
+	1.Installation:
 	•	Clone the repository and install the required packages as listed in the prerequisites.
 	•	Ensure your Python environment is compatible with the specified library versions.
  
-	**2.Running the Code:**
+	2.Running the Code:
 	•	Launch the notebook in Jupyter or Google Colab.
 	•	Follow the steps outlined to:
 	•	Preprocess the dataset.
 	•	Train the model.
 	•	Evaluate performance metrics.
  
-	**3.Customizing Experiments:**
+	3.Customizing Experiments:
 	•	Modify hyperparameters or preprocessing settings in the notebook for custom tasks.
 
 **Acknowledgments**
